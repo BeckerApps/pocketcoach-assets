@@ -28,6 +28,19 @@
    "image": "assets/balls/storm-iq-spear.webp",
    "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-iq-spear.webp"
   },
+  "storm-Test": {
+   "label": "Test",
+   "brand": "Storm",
+   "coreType": "symmetric",
+   "coverType": "pearl",
+   "surfaceGrit": "polish",
+   "rg": 2.48,
+   "diff": 0.031,
+   "weightLbs": 15,
+   "notes": "",
+   "image": "assets/balls/Test.webp",
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/Test.webp"
+  },
   "storm-iq-super-g": {
    "label": "!Q Super G",
    "brand": "Storm",
