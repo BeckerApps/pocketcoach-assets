@@ -1,5 +1,5 @@
 {
- "version": 5,
+ "version": 6,
  "updated": "2026-07-01",
  "brandOrder": [
   "Storm",
@@ -2998,6 +2998,20 @@
    "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-pitch-black.webp",
    "hardness": 75
   },
+  "storm-pitch-black-78U": {
+   "label": "Pitch Black 78/U",
+   "brand": "Storm",
+   "coreType": "symmetric",
+   "coverType": "urethaneSolid",
+   "surfaceGrit": "1000",
+   "rg": 2.57,
+   "diff": 0.022,
+   "weightLbs": 15,
+   "notes": "",
+   "image": "assets/balls/storm-pitch-black-78U.webp",
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-pitch-black-78U.webp",
+   "hardness": 78
+  },
   "storm-pitch-blue": {
    "label": "Pitch Blue",
    "brand": "Storm",
@@ -5340,6 +5354,19 @@
    "image": "assets/balls/roto-grip-hustler-navy.webp",
    "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/roto-grip-hustler-navy.webp"
   },
+  "roto-grip-hyped-up": {
+   "label": "Hyped UP!",
+   "brand": "Roto Grip",
+   "coreType": "symmetric",
+   "coverType": "hybrid",
+   "surfaceGrit": "4000",
+   "rg": 2.50,
+   "diff": 0.042,
+   "weightLbs": 15,
+   "notes": "",
+   "image": "assets/balls/roto-grip-hyped-up.webp",
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/roto-grip-hyped-up.webp"
+  },
   "roto-grip-hyped-hybrid": {
    "label": "Hyped Hybrid",
    "brand": "Roto Grip",
@@ -5989,6 +6016,21 @@
    "intDiff": 0.01,
    "image": "assets/balls/roto-grip-tour-dynam-x.webp",
    "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/roto-grip-tour-dynam-x.webp"
+  }
+  ,
+  "roto-grip-transform-pearl": {
+   "label": "Transform Pearl",
+   "brand": "Roto Grip",
+   "coreType": "asymmetric",
+   "coverType": "pearl",
+   "surfaceGrit": "polish",
+   "rg": 2.51,
+   "diff": 0.051,
+   "weightLbs": 15,
+   "notes": "",
+   "intDiff": 0.015,
+   "image": "assets/balls/roto-grip-transform-pearl.webp",
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/roto-grip-transform-pearl.webp"
   },
   "roto-grip-transformer": {
    "label": "Transformer",
