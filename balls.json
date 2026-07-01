@@ -1,6 +1,6 @@
 {
- "version": 4,
- "updated": "2026-06-17",
+ "version": 5,
+ "updated": "2026-07-01",
  "brandOrder": [
   "Storm",
   "Roto Grip",
@@ -65,7 +65,8 @@
    "weightLbs": 15,
    "notes": "",
    "image": "assets/balls/storm-iq-tour-78u.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-iq-tour-78u.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-iq-tour-78u.webp",
+   "hardness": 78
   },
   "storm-iq-tour-ai": {
    "label": "!Q Tour A.I.",
@@ -1345,7 +1346,8 @@
    "weightLbs": 15,
    "notes": "",
    "image": "assets/balls/storm-fever-pitch.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-fever-pitch.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-fever-pitch.webp",
+   "hardness": 75
   },
   "storm-fight": {
    "label": "Fight",
@@ -2372,7 +2374,8 @@
    "weightLbs": 15,
    "notes": "",
    "image": "assets/balls/storm-mix-various-colors.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-mix-various-colors.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-mix-various-colors.webp",
+   "hardness": 83
   },
   "storm-monsoon": {
    "label": "Monsoon",
@@ -2992,7 +2995,8 @@
    "weightLbs": 15,
    "notes": "",
    "image": "assets/balls/storm-pitch-black.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-pitch-black.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-pitch-black.webp",
+   "hardness": 75
   },
   "storm-pitch-blue": {
    "label": "Pitch Blue",
@@ -3005,7 +3009,8 @@
    "weightLbs": 15,
    "notes": "",
    "image": "assets/balls/storm-pitch-blue.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-pitch-blue.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-pitch-blue.webp",
+   "hardness": 75
   },
   "storm-pitch-purple": {
    "label": "Pitch Purple",
@@ -3044,7 +3049,8 @@
    "weightLbs": 15,
    "notes": "",
    "image": "assets/balls/storm-polar-ice-hybrid-blackblue.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-polar-ice-hybrid-blackblue.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-polar-ice-hybrid-blackblue.webp",
+   "hardness": 74
   },
   "storm-power-agent": {
    "label": "Power Agent",
@@ -3738,7 +3744,8 @@
    "weightLbs": 15,
    "notes": "",
    "image": "assets/balls/storm-super-natural.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-super-natural.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/storm-super-natural.webp",
+   "hardness": 75
   },
   "storm-super-nova": {
    "label": "Super Nova",
@@ -5913,7 +5920,8 @@
    "notes": "",
    "intDiff": 0.011,
    "image": "assets/balls/roto-grip-rubicon-uc3.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/roto-grip-rubicon-uc3.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/roto-grip-rubicon-uc3.webp",
+   "hardness": 74
   },
   "roto-grip-rubicon-uc3-trax": {
    "label": "Rubicon UC3 Trax",
@@ -6280,7 +6288,8 @@
    "weightLbs": 15,
    "notes": "",
    "image": "assets/balls/hammer-black-pearl-urethane.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/hammer-black-pearl-urethane.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/hammer-black-pearl-urethane.webp",
+   "hardness": 78
   },
   "hammer-black-solid-urethane": {
    "label": "Black Solid Urethane",
@@ -7494,7 +7503,8 @@
    "weightLbs": 15,
    "notes": "",
    "image": "assets/balls/hammer-purple-pearl-urethane-78d.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/hammer-purple-pearl-urethane-78d.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/hammer-purple-pearl-urethane-78d.webp",
+   "hardness": 78
   },
   "hammer-purple-pearl-urethane-kr-limited": {
    "label": "Purple Pearl Urethane KR Limited",
@@ -9380,7 +9390,8 @@
    "weightLbs": 15,
    "notes": "",
    "image": "assets/balls/motiv-purple-tank.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/motiv-purple-tank.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/motiv-purple-tank.webp",
+   "hardness": 75
   },
   "motiv-qz1-purple": {
    "label": "QZ1 Purple",
@@ -10871,7 +10882,8 @@
    "weightLbs": 15,
    "notes": "",
    "image": "assets/balls/brunswick-crown-78u.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/brunswick-crown-78u.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/brunswick-crown-78u.webp",
+   "hardness": 78
   },
   "brunswick-crown-jewel": {
    "label": "Crown Jewel",
@@ -16254,7 +16266,8 @@
    "notes": "",
    "intDiff": 0.013,
    "image": "assets/balls/900-global-honey-badger-u78.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/900-global-honey-badger-u78.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/900-global-honey-badger-u78.webp",
+   "hardness": 78
   },
   "900-global-honey-badger-urethane": {
    "label": "Honey Badger Urethane",
@@ -17209,7 +17222,8 @@
    "weightLbs": 15,
    "notes": "",
    "image": "assets/balls/900-global-zen-u.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/900-global-zen-u.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/900-global-zen-u.webp",
+   "hardness": 73
   },
   "ebonite-big-time-se": {
    "label": "Big Time S.E.",
@@ -17316,7 +17330,8 @@
    "weightLbs": 15,
    "notes": "",
    "image": "assets/balls/ebonite-crush-navy-urethane.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/ebonite-crush-navy-urethane.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/ebonite-crush-navy-urethane.webp",
+   "hardness": 76
   },
   "ebonite-crushr": {
    "label": "Crush/R",
@@ -18434,7 +18449,8 @@
    "notes": "",
    "intDiff": 0.027,
    "image": "assets/balls/ebonite-the-one-urethane-78d.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/ebonite-the-one-urethane-78d.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/ebonite-the-one-urethane-78d.webp",
+   "hardness": 78
   },
   "ebonite-the-one-vector": {
    "label": "The One Vector",
@@ -18475,7 +18491,8 @@
    "weightLbs": 15,
    "notes": "",
    "image": "assets/balls/ebonite-thunderbolt-urethane.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/ebonite-thunderbolt-urethane.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/ebonite-thunderbolt-urethane.webp",
+   "hardness": 78
   },
   "ebonite-titan-angular-one": {
    "label": "Titan Angular One",
@@ -18782,7 +18799,8 @@
    "weightLbs": 15,
    "notes": "",
    "image": "assets/balls/radical-double-cross.webp",
-   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/radical-double-cross.webp"
+   "imageRemote": "https://raw.githubusercontent.com/BeckerApps/pocketcoach-assets/main/balls/radical-double-cross.webp",
+   "hardness": 73
   },
   "radical-evil-eye": {
    "label": "Evil Eye",
